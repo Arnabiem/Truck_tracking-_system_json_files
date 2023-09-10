@@ -1,0 +1,32 @@
+
+    [
+      {
+        "violation_id": 1,
+        "truck_plate": "ABC 123",
+        "driver_name": "Rajesh Kumar",
+        "violation_type": "Overloaded",
+        "location": "Weigh Station A",
+        "date": "2023-09-20",
+        "fine_amount": 200.0
+      },
+      {
+        "violation_id": 2,
+        "truck_plate": "XYZ 789",
+        "driver_name": "Priya Sharma",
+        "violation_type": "Overspeeding",
+        "location": "Highway B",
+        "date": "2023-09-22",
+        "fine_amount": 150.0
+      },
+      {
+        "violation_id": 3,
+        "truck_plate": "LMN 456",
+        "driver_name": "Amit Patel",
+        "violation_type": "Unauthorized Route",
+        "location": "Restricted Area C",
+        "date": "2023-09-25",
+        "fine_amount": 100.0
+      }
+    ]
+  
+  

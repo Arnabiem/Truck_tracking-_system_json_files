@@ -1,0 +1,32 @@
+
+    [
+      {
+        "driver_id": 1,
+        "driver_name": "Rajesh Kumar",
+        "total_trips": 50,
+        "total_distance_km": 2000.0,
+        "total_cargo_delivered_kg": 50000.0,
+        "average_speed_kph": 70.0,
+        "fuel_consumed_liters": 500.0
+      },
+      {
+        "driver_id": 2,
+        "driver_name": "Priya Sharma",
+        "total_trips": 60,
+        "total_distance_km": 2400.0,
+        "total_cargo_delivered_kg": 55000.0,
+        "average_speed_kph": 65.0,
+        "fuel_consumed_liters": 550.0
+      },
+      {
+        "driver_id": 3,
+        "driver_name": "Amit Patel",
+        "total_trips": 45,
+        "total_distance_km": 1800.0,
+        "total_cargo_delivered_kg": 45000.0,
+        "average_speed_kph": 75.0,
+        "fuel_consumed_liters": 480.0
+      }
+    ]
+  
+  

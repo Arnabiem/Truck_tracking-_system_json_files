@@ -1,0 +1,30 @@
+
+    [
+      {
+        "violation_id": 1,
+        "violation_type": "Speeding",
+        "location": "City A",
+        "latitude": 12.9716,
+        "longitude": 77.5946,
+        "date": "2023-09-20"
+      },
+      {
+        "violation_id": 2,
+        "violation_type": "Red Light Violation",
+        "location": "City B",
+        "latitude": 19.0760,
+        "longitude": 72.8777,
+        "date": "2023-09-22"
+      },
+      {
+        "violation_id": 3,
+        "violation_type": "Parking Violation",
+        "location": "City C",
+        "latitude": 28.6139,
+        "longitude": 77.2090,
+        "date": "2023-09-25"
+      }
+    
+    ]
+
+  

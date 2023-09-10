@@ -1,0 +1,40 @@
+
+    [
+      {
+        "timestamp": "2023-09-20T08:00:00",
+        "event": "Start of Day",
+        "location": "Truck Depot",
+        "driver_name": "Rajesh Kumar",
+        "truck_id": "TRK001"
+      },
+      {
+        "timestamp": "2023-09-20T09:30:00",
+        "event": "Departure",
+        "location": "City A",
+        "driver_name": "Rajesh Kumar",
+        "truck_id": "TRK001"
+      },
+      {
+        "timestamp": "2023-09-20T12:15:00",
+        "event": "Delivery",
+        "location": "City B",
+        "driver_name": "Rajesh Kumar",
+        "truck_id": "TRK001"
+      },
+      {
+        "timestamp": "2023-09-20T16:45:00",
+        "event": "Arrival",
+        "location": "Truck Depot",
+        "driver_name": "Rajesh Kumar",
+        "truck_id": "TRK001"
+      },
+      {
+        "timestamp": "2023-09-21T08:30:00",
+        "event": "Start of Day",
+        "location": "Truck Depot",
+        "driver_name": "Priya Sharma",
+        "truck_id": "TRK002"
+      }
+    ]
+  
+  

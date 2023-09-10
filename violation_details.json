@@ -1,0 +1,30 @@
+
+    [
+      {
+        "violation_id": 1,
+        "driver_name": "Rajesh Kumar",
+        "violation_type": "Speeding",
+        "location": "City A",
+        "date": "2023-09-20",
+        "fine_amount": 100.0
+      },
+      {
+        "violation_id": 2,
+        "driver_name": "Priya Sharma",
+        "violation_type": "Red Light Violation",
+        "location": "City B",
+        "date": "2023-09-22",
+        "fine_amount": 150.0
+      },
+      {
+        "violation_id": 3,
+        "driver_name": "Amit Patel",
+        "violation_type": "Parking Violation",
+        "location": "City C",
+        "date": "2023-09-25",
+        "fine_amount": 50.0
+      }
+      
+    ]
+  
+  
